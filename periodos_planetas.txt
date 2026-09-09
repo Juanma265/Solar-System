@@ -1,0 +1,8 @@
+ Planeta: Mercurio  Periodo (dias):    87.8360062    
+ Planeta: Venus     Periodo (dias):    225.399063    
+ Planeta: Tierra    Periodo (dias):    364.936340    
+ Planeta: Marte     Periodo (dias):    687.856873    
+ Planeta: Jupiter   Periodo (dias):    4078.52368    
+ Planeta: Saturno   Periodo (dias):    10727.0508    
+ Planeta: Urano     Periodo (dias):    30586.1426    
+ Planeta: Neptuno   Periodo (dias):    58563.0898    
